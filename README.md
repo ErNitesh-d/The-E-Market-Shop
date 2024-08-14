@@ -70,6 +70,7 @@ The project follows a layered architecture, including the following layers:
 
 ![image](https://github.com/user-attachments/assets/80b9cdc8-c68d-4678-80b9-35eb268a1ba9)
 
+![image](https://github.com/user-attachments/assets/00af269a-a44d-4540-b00f-33901ef4436e)
 
 #### **Future Enhancements**
 - **Integration with Payment Gateways:** To provide secure online payment options.
