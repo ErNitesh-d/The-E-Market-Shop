@@ -55,9 +55,21 @@ The project follows a layered architecture, including the following layers:
 - **Service Layer:** Contains business logic and handles interactions between the presentation and data layers.
 - **Data Access Layer:** Manages data persistence and retrieval using JPA and MySQL.
 - **Database Layer:** MySQL database for data storage.
+  
+![image](https://github.com/user-attachments/assets/6174cadf-9a7e-4da9-a088-0c356cf7ff91)
 
-#### **Deployment and Scaling**
-The E-Market project can be deployed on any cloud platform or on-premises server. The architecture supports scalability, allowing the system to handle increasing traffic and data volume.
+![image](https://github.com/user-attachments/assets/d02de50d-2575-4eb9-be81-f90afe367f09)
+
+![image](https://github.com/user-attachments/assets/f88ad426-4370-4a79-b7b0-1c36568766e2)
+
+![screencapture-localhost-8080-2024-08-14-12_54_23](https://github.com/user-attachments/assets/52cceeeb-9891-48da-ab69-47733e124e48)
+
+![screencapture-localhost-8080-products-2024-08-14-12_57_55](https://github.com/user-attachments/assets/67770f7d-5437-4c30-a741-5494f5ed154b)
+
+![image](https://github.com/user-attachments/assets/dc9c1ded-9266-490f-8784-ab2f4077cfbf)
+
+![image](https://github.com/user-attachments/assets/80b9cdc8-c68d-4678-80b9-35eb268a1ba9)
+
 
 #### **Future Enhancements**
 - **Integration with Payment Gateways:** To provide secure online payment options.
